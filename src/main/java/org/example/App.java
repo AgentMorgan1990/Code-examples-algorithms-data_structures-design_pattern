@@ -16,5 +16,10 @@ public class App {
         int[] sortedArray = SelectionSort.selectionSort(array2);
         System.out.println(Arrays.toString(sortedArray));
 
+        int[] array3 = {20, 2, 78, 54, 3, 567, 3, 2, 34, 56};
+        System.out.println(RecursionFunction.sumNumbers(array3));
+        System.out.println(RecursionFunction.countElements(array3));
+        System.out.println(RecursionFunction.maxNumber(array3));
+        System.out.println(Arrays.toString(QuickSort.quickSort(array3)));
     }
 }
