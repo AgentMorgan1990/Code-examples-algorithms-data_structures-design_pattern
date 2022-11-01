@@ -1,4 +1,4 @@
-package org.example;
+package ru.education.algorithms.sort;
 
 import java.util.Arrays;
 

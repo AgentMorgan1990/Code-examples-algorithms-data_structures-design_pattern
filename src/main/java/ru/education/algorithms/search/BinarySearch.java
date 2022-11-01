@@ -1,6 +1,6 @@
-package org.example;
+package ru.education.algorithms.search;
 
-public class BinaryAlgorithm {
+public class BinarySearch {
 
 
     public static Integer binarySearch(int[] array, int item) {
