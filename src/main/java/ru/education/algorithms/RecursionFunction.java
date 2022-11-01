@@ -1,4 +1,4 @@
-package org.example;
+package ru.education.algorithms;
 
 import java.util.Arrays;
 
