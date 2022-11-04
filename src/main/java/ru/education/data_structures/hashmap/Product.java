@@ -3,7 +3,6 @@ package ru.education.data_structures.hashmap;
 import java.util.Objects;
 
 public class Product {
-
     private final int id;
     private final String title;
 
@@ -13,21 +12,26 @@ public class Product {
     }
 
     @Override
-    public String toString() {
-        return "Product{" + "id=" + id + ", title='" + title + '\'' + '}';
-    }
-
-    @Override
     public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
+        if (this == o) {
+            return true;
+        }
+
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
+
         Product product = (Product) o;
         return id == product.id && Objects.equals(title, product.title);
     }
 
     @Override
+    public String toString() {
+        return "Product{" + "id=" + id + ", title='" + title + '\'' + '}';
+    }
+
+    @Override
     public int hashCode() {
-//        return Objects.hash(id, title);
-        return id;
+        return Objects.hash(id, title);
     }
 }
