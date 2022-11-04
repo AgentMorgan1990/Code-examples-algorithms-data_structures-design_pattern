@@ -15,7 +15,6 @@ public interface HashTable<K, V> {
     void display();
 
     interface Entry<K, V> {
-
         K getKey();
 
         V getValue();
