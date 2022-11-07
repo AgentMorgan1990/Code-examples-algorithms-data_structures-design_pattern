@@ -1,4 +1,4 @@
-package ru.education.algorithms.sort_exercise_2;
+package ru.education.algorithms.search_exercise_1;
 
 public class SearchAlgorithm {
     public static int search(int[] array) {

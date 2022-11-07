@@ -1,4 +1,4 @@
-package ru.education.algorithms.sort_exercise_2;
+package ru.education.algorithms.search_exercise_1;
 
 /**
  * Дан массив из n элементов, начиная с 1. Каждый следующий элемент равен (предыдущий + 1).
