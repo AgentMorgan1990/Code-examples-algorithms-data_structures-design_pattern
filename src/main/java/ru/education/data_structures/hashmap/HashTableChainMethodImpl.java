@@ -6,6 +6,9 @@ import java.util.List;
 /**
  * Реализация HashTable методом цепочек
  */
+
+//todo добавить описание изменения сложности для Java -> после какого кол-ва элементов преобразуется в дерево
+
 public class HashTableChainMethodImpl<K, V> implements HashTable<K, V> {
 
 
