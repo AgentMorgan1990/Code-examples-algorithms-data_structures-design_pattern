@@ -1,4 +1,4 @@
-package ru.education.data_structures.hashmap;
+package ru.education.data_structures.hash_table;
 
 import java.util.LinkedList;
 import java.util.List;
