@@ -1,6 +1,8 @@
 package ru.education.algorithms.search_exercise_1;
 
 public class SearchAlgorithm {
+
+    //todo тут не совсем верное решение, переделал в другой таске
     public static int search(int[] array) {
 
         int findNumber = -1;

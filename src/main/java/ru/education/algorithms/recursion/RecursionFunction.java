@@ -1,4 +1,4 @@
-package ru.education.algorithms;
+package ru.education.algorithms.recursion;
 
 import java.util.Arrays;
 

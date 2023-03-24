@@ -1,13 +1,15 @@
-package ru.education.algorithms.sort;
+package ru.education.algorithms.sort.low_speed;
 
 import java.util.Arrays;
 
 public class SelectionSort {
 
-    /*
+    /**
      * Сортировка выбором
      *
      * Сложность алгоритма O(n^2).
+     * Лучший случай - O(n^2)
+     * Потребление памяти O(1)
      *
      * Выбираем наименьший элемент в массиве.
      * Копируем этот элемент в новый массив.

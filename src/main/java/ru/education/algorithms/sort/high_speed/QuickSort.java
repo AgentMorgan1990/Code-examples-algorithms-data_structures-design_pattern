@@ -1,4 +1,4 @@
-package ru.education.algorithms.sort;
+package ru.education.algorithms.sort.high_speed;
 
 import java.util.Arrays;
 
