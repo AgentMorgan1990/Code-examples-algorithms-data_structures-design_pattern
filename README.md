@@ -1,16 +1,21 @@
 # This repository for consolidating and studying: 
-- Algorithms 
-- Data structures 
-- Design patterns
+- _**Algorithms**_ 
+- _**Data structures**_ 
+- _**Design patterns**_
 
 
-## Algorithms:
+
+
+
+
+
+#### _Algorithms_
 - Big O
 - Recursion
 - Search
 - Sort
 
-## Data structures
+#### _Data structures_
 - Graph
 - Hash table
 - List
@@ -18,7 +23,8 @@
 - Stack
 - Tree
 
-## Design pattern
+#### _Design pattern_
+
 1) Behavioral
     - Chain of responsibility
     - Command
@@ -31,12 +37,14 @@
     - State
     - Template method
     - Visitor
+   
 2) Creational
     - Abstract factory
     - Builder
     - Factory method
     - Prototype
     - Singleton
+   
 3) Structural
     - Adapter
     - Bridge
