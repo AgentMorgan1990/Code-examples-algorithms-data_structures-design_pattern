@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>algorithm</artifactId>
+  <artifactId>algorithms__data_structure__desighn_patterns</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>algorithm</name>
+  <name>algorithms__data_structure__desighn_patterns</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
